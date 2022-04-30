@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Orelega+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+body {
+    background: linear-gradient(-45deg, #656565, #808782,#8A9A8A, #93AD91, #9DC099, #A6D3A0, #ADE9AA, #B3FFB3, #C2FFC5, #D1FFD7)
+}
+
+h1 {
+    font-family: 'Bebas Neue', cursive;
+}
+
+span {
+    font-size: 25px;
+    color: #465c44;
+    font-family: 'Orelega One', cursive;
+}
+
+#score {
+    margin-left: 15px;
+    float: left;
+}
+
+#timer {
+    margin-right: 15px;
+    float: right;
+}
+
+#sketch_to_be_drawn {
+    width: 100%;
+    background-color: yellowgreen;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
